@@ -1,4 +1,10 @@
 
+> *For now, I’ve put the Udemy course on hold because it mostly talks about use cases around overcoming Power Apps limitations using Power Automate. Since I’m still new, I felt it would be better to first understand Power Automate itself properly.*
+
+> *So today, I went through Power Automate for Desktop to get a clear idea of how the tool works, how flows are created, and how basic automation is structured. Once I’m comfortable with this foundation, it’ll be easier to connect it with more advanced use cases later.*
+
+If you want it **even more casual** or **shorter like a quick update**, I can tweak it in seconds 👍
+
 
 ### **What the Module Is About**
 
